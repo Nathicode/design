@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+
+}
+body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+}
+.img-fluid:hover {
+    opacity: .5;
+}
+.img-fluid {
+    transition-duration: .5s;
+}
+section {
+    width: 100%;
+    border-color: rebeccapurple;
+}
+.row {
+    margin: auto;
+}
